@@ -1,0 +1,15 @@
+yellow
+green
+black
+blue
+red
+brown
+rust
+white
+orange
+purple
+grey
+beige
+wheat
+golden
+silver
